@@ -16,7 +16,7 @@ let SmtpTransport = nodemailer.createTransport(
         service:'gmail',
         auth:{
             user:'gigacodes@gmail.com',
-            pass:':MUST1642ang1727:',
+            pass:':MUST1642ang1727:'
         }
     }
 )
